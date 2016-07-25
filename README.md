@@ -1,3 +1,6 @@
 #hello-world
 This is my first git-hub project
-it looks very interesting 
+it looks very interesting
+Today is Sunday to learn best time to learn GIT
+1/25/16
+
